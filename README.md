@@ -22,7 +22,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hey, I'm Satya Sai Ganesh Yerramsetti — an AI/ML engineer who genuinely enjoys turning complex research into systems that actually work in the real world.
 
@@ -74,7 +74,7 @@ When I'm not coding, I'm usually playing cricket, hitting the gym, or sketching 
 <tr>
 <td width="50%">
 
-### 🤖 Jarvis — Autonomous GitHub Agent
+### 🤖 Triage — Autonomous GitHub Agent
 An autonomous issue management system built on LangGraph state machines. Handles the full lifecycle of GitHub issues — from intake to resolution — without human intervention.
 
 **Impact:** Reduced manual engineering overhead on issue triage by automating classification, assignment, SLA tracking, and audit logging.

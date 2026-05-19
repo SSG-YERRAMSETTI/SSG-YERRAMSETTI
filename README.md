@@ -23,7 +23,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm an AI/ML engineer doing my Master's in Computer Science at the **University of North Texas** (GPA 3.8), and most of my work lives at the intersection of LLM engineering, computer vision, and making AI systems actually reliable in production.
 
@@ -55,13 +55,13 @@ When I'm not building things: cricket, gym, and the occasional sketch.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Triage Agent — Autonomous GitHub Issue Management
+###  Triage Agent — Autonomous GitHub Issue Management
 A LangGraph state machine that handles the full GitHub issue lifecycle without human intervention — classification, assignment, SLA enforcement, audit logging, and auto-close on stale issues.
 
 **Business impact:** Returns 5–10 hrs/week of engineering overhead back to the team.
@@ -73,7 +73,7 @@ A LangGraph state machine that handles the full GitHub issue lifecycle without h
 </td>
 <td width="50%">
 
-### 📡 Real-Time LLM Observability Pipeline
+###  Real-Time LLM Observability Pipeline
 Polls LLM trace data from Arize every minute, evaluates each response with a Vertex AI judge model, and deploys the full pipeline on GCP Cloud Run via Terraform. Multi-cloud: built on AWS SageMaker, runs on GCP.
 
 **Business impact:** Catches model degradation in minutes, not when a customer complains.
@@ -87,7 +87,7 @@ Polls LLM trace data from Arize every minute, evaluates each response with a Ver
 <tr>
 <td width="50%">
 
-### 🗃️ AI-Powered Database Automation
+###  AI-Powered Database Automation
 Schema-grounded RAG pipeline that lets anyone query a PostgreSQL database in plain English. The LLM receives live table definitions, foreign keys, and business rules before generating SQL. Runs entirely locally with Ollama + Gemma — no data leaves the machine.
 
 **Business impact:** Answers in 30s what used to require a Jira ticket and a day's wait.
@@ -99,7 +99,7 @@ Schema-grounded RAG pipeline that lets anyone query a PostgreSQL database in pla
 </td>
 <td width="50%">
 
-### 🏪 SmartVend — AI-Powered Vending Management
+###  SmartVend — AI-Powered Vending Management
 Full-stack vending operations platform. OCR pipeline reads supplier receipts and updates inventory automatically. Rolling 7-day demand forecast flags machines before they stock out. Profit calculated from actual invoice costs, not estimates.
 
 **Business impact:** Eliminates manual data entry + targets 15–25% revenue lost to stockouts.
@@ -113,7 +113,7 @@ Full-stack vending operations platform. OCR pipeline reads supplier receipts and
 <tr>
 <td width="50%">
 
-### 📷 Multi-Camera Live Object Tracking v3.0
+###  Multi-Camera Live Object Tracking v3.0
 Upgraded an open-source tracking system — replaced Darknet/TF 1.14 with YOLOv8, fixed a concurrency bug by giving each camera its own Deep SORT instance, and added vehicle intelligence: color detection, plate OCR, and type classification.
 
 **Business impact:** One operator monitoring 10+ live feeds with automated event detection.
@@ -125,7 +125,7 @@ Upgraded an open-source tracking system — replaced Darknet/TF 1.14 with YOLOv8
 </td>
 <td width="50%">
 
-### 🔬 EPIANN — Efficient Person Identification
+###  EPIANN — Efficient Person Identification
 [![Published](https://img.shields.io/badge/Published-Springer_2023-8A2BE2?style=flat-square)](https://doi.org/10.1007/978-981-95-0144-1_25)
 
 Two detection pipelines (Haar Cascade + MTCNN), LBPH recognition, and real-time color-coded alerts based on criminal record lookup. Undergraduate thesis published at BVRITHCON-2023 (Springer).
@@ -140,11 +140,11 @@ Two detection pipelines (Haar Cascade + MTCNN), LBPH recognition, and real-time 
 </tr>
 </table>
 
-> 🧬 **Ongoing Research:** CNN-Based Autism Detection via 4D fMRI — 3D CNN on resting-state neuroimaging to classify ASD vs. neurotypical subjects. Research project at UNT. *(Repo coming soon)*
+>  **Ongoing Research:** CNN-Based Autism Detection via 4D fMRI — 3D CNN on resting-state neuroimaging to classify ASD vs. neurotypical subjects. Research project at UNT. *(Repo coming soon)*
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SSG-YERRAMSETTI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C9A84C&icon_color=C9A84C&text_color=ffffff"/>
@@ -157,7 +157,7 @@ Two detection pipelines (Haar Cascade + MTCNN), LBPH recognition, and real-time 
 
 ---
 
-## 📚 Education & Credentials
+##  Education & Credentials
 
 | | Institution | Period | Result |
 |---|---|---|---|
@@ -170,16 +170,16 @@ Two detection pipelines (Haar Cascade + MTCNN), LBPH recognition, and real-time 
 > [doi.org/10.1007/978-981-95-0144-1_25](https://doi.org/10.1007/978-981-95-0144-1_25)
 
 **Certifications**
-- 🏆 Microsoft Azure AI Engineer Associate — Microsoft *(Apr 2023)*
-- ☁️ AWS Academy: Machine Learning Foundations — Amazon Web Services *(Jan 2023)*
-- ☁️ AWS Academy: Cloud Architecting — Amazon Web Services *(Jan 2023)*
-- ☁️ AWS Academy: Cloud Foundations — Amazon Web Services *(Nov 2022)*
-- 📊 Python for Data Science — IBM *(Jun 2023)*
-- 🐍 MTA: Introduction to Programming Using Python — Microsoft *(Jun 2022)*
+-  Microsoft Azure AI Engineer Associate — Microsoft *(Apr 2023)*
+-  AWS Academy: Machine Learning Foundations — Amazon Web Services *(Jan 2023)*
+-  AWS Academy: Cloud Architecting — Amazon Web Services *(Jan 2023)*
+-  AWS Academy: Cloud Foundations — Amazon Web Services *(Nov 2022)*
+-  Python for Data Science — IBM *(Jun 2023)*
+-  MTA: Introduction to Programming Using Python — Microsoft *(Jun 2022)*
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm actively looking for **AI/ML engineering roles** — full-time or internship. If you're working on something in LLMs, agentic AI, computer vision, or MLOps, I'd love to connect.
 

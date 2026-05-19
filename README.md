@@ -15,9 +15,9 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SSG-YERRAMSETTI&color=C9A84C&style=flat-square&label=Profile+Views)](https://github.com/SSG-YERRAMSETTI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/satya-sai-ganesh-yerramsetti-2a204424b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9A84C?style=flat-square&logo=vercel)](https://YOUR-PORTFOLIO-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9A84C?style=flat-square&logo=vercel)]([https://YOUR-PORTFOLIO-URL](https://satyasaiganeshyerramsetti.netlify.app/))
 [![Research Paper](https://img.shields.io/badge/Published-Springer_BVRITHCON_2023-8A2BE2?style=flat-square&logo=google-scholar)](https://doi.org/10.1007/978-981-95-0144-1_25)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:satyasaiganeshyerramsetti@my.unt.edu)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:ganeshyss0916@gmail.com)
 
 </div>
 

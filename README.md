@@ -49,9 +49,9 @@ When I'm not building things: cricket, gym, and the occasional sketch.
 | **Cloud — GCP** | Vertex AI · AutoML · Cloud Run · BigQuery · Artifact Registry · Secret Manager |
 | **Cloud — AWS** | SageMaker · S3 · IAM · ECR |
 | **MLOps** | Docker · Kubernetes · Terraform · GitHub Actions CI/CD |
-| **Backend** | FastAPI · Streamlit · REST APIs · WebSocket · ZMQ |
+| **Backend** | FastAPI · Streamlit · REST APIs · WebSocket |
 | **Databases** | PostgreSQL · MySQL · FAISS · Apache Spark · SQL |
-| **Languages** | Python · Java · Bash · SQL · Linux |
+| **Languages** | Python · Java · SQL |
 
 ---
 

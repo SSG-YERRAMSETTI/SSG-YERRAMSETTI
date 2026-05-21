@@ -15,7 +15,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SSG-YERRAMSETTI&color=C9A84C&style=flat-square&label=Profile+Views)](https://github.com/SSG-YERRAMSETTI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/satya-sai-ganesh-yerramsetti-2a204424b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9A84C?style=flat-square&logo=vercel)](https://ssg-yerramsetti.github.io/MY-PORTIFOLIO/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C9A84C?style=flat-square&logo=vercel)](https://ssg-yerramsetti.github.io/MY-PORTFOLIO/)
 [![Research Paper](https://img.shields.io/badge/Published-Springer_BVRITHCON_2023-8A2BE2?style=flat-square&logo=google-scholar)](https://doi.org/10.1007/978-981-95-0144-1_25)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:ganeshyss0916@gmail.com)
 
@@ -187,7 +187,7 @@ I'm actively looking for **AI/ML engineering roles** — full-time or internship
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshyss0916@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satya-sai-ganesh-yerramsetti-2a204424b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-C9A84C?style=for-the-badge&logo=vercel&logoColor=white)](https://ssg-yerramsetti.github.io/MY-PORTIFOLIO/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C9A84C?style=for-the-badge&logo=vercel&logoColor=white)](https://ssg-yerramsetti.github.io/MY-PORTFOLIO/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SSG-YERRAMSETTI)
 
 </div>
